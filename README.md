@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blake Runyon</h1>
 <h3 align="center">A motivated and detail-oriented software developer</h3>
 
-<p align="left"> <a href="https://twitter.com/blakerunyon_io" target="blank"><img src="https://img.shields.io/twitter/follow/blakerunyon_io?logo=twitter&style=for-the-badge" alt="blakerunyon_io" /></a> </p>
+<p align="center"> <a href="https://twitter.com/blakerunyon_io" target="blank"><img src="https://img.shields.io/twitter/follow/blakerunyon_io?logo=twitter&style=for-the-badge" alt="blakerunyon_io" /></a> </p>
 
 - 🔭 I’m currently working on [a Metal Building Quote Generator for a local company in West Virginia](https://github.com/blake-runyon/MetalBuildingCalculator)
 

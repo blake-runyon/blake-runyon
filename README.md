@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently expanding my knowledge in **React and Angular**
 
-- 👨‍💻 All of my projects are available at [blakerunyon.io](blakerunyon.io)
+- 👨‍💻 All of my projects are available at [blakerunyon.io](https://www.blakerunyon.io)
 
 - 📫 How to reach me **me@blakerunyon.io**
 

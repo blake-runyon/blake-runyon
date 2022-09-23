@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/blakerunyon_io" target="blank"><img src="https://img.shields.io/twitter/follow/blakerunyon_io?logo=twitter&style=for-the-badge" alt="blakerunyon_io" /></a> </p>
 
-- 🔭 I’m currently working on [a Metal Building Quote Generator for a local company in West Virginia](https://github.com/blake-runyon/MetalBuildingCalculator)
+- 🔭 I’m currently working on a <b>Church Management System (ChMS) that helps churches stay organized</b>.
 
 - 🌱 I’m currently expanding my knowledge in **React and Angular**
 
